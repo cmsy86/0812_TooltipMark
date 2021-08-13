@@ -31,7 +31,7 @@ div#toolTipTxt {
 
     position: absolute;
     left: 110px;
-    top: -40px;
+    top: -50px;
 
     display: none;
 }
@@ -54,5 +54,5 @@ div#arrowMark {
     display: none;
     position: absolute;
     left: 165px;
-    top: -5px;
+    top: -15px;
 }
